@@ -55,4 +55,4 @@
 
 ## 3. 데이터 분석
 
-※분석보고서 참고
+※[분석보고서](https://github.com/tjdrhks0808/Project-Child_Road_Accident/blob/main/Osan_Report.pdf) 참고
