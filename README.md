@@ -1,6 +1,14 @@
 # Project-Child_Road_Accident
 오산시 어린이 교통사고 위험 지역 도출 분석 과제 - hosted by LH
 
+> 장려상 수상
+
+참가 일정 : 2020.12.10 ~ 2021.2.23
+
+팀명 : G.O.C
+
+팀원 : 고태영, 김성관, 박주형, 조형래
+
 링크: https://compas.lh.or.kr/subj/past/info?subjNo=SBJ_2012_001
 
 
